@@ -3,7 +3,7 @@
 #-----------------------------------------------------------------------------
 
 # name of container
-CONTAINER_NAME = localhost:5000/base-alpine:3.4
+CONTAINER_NAME = johanadriaans/base-alpine:3.4
 
 # name of instance and other options you want to pass to docker run for testing
 INSTANCE_NAME = base-alpine
